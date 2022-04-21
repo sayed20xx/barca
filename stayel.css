@@ -1,0 +1,127 @@
+body {
+    margin: 0
+}
+.all
+{
+    height: 100%;
+    width: 100%;
+    display: block;
+    text-align: right;
+    /*padding: 0px 20px;*/
+    margin: 0px;
+    
+    background-image: url('wp2333349-barcelona-2018-wallpaperss.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.header
+{
+    height: 100%;
+    max-width: 100%;
+    font-family: arial;
+    font-weight: bold;
+    display: block;
+
+    font-size: 400%;
+    color: #dddd00;
+    background: #26559B;
+    padding: 10px 20px;
+    border: 2px hidden #26559B ;
+    margin: 0px;
+}
+.pragrav
+{
+    height: 100%;
+    max-width: 100%;
+    display: block;
+      font-family: "terbusht ms";
+    font-weight: bold;
+    font-size: 100%;
+        background: #26559B;
+
+    color: #dddd00;
+    padding: 10px 20px;
+    border: 1px hidden #26559B;
+margin: 0px;
+
+}
+.contener
+{
+  height: 1200px;
+    width: 1000px;
+    background-color: #26559B;
+    padding: 10px;
+    margin: 100px;
+}
+.contener div
+{
+    height: 500px;
+    width: 900px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 100%;
+    background-color: #C32148;
+    color: #ffff00;
+    padding-x: 200px;
+    margin: 15px 100px;
+}
+a
+{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 100%;
+    color: #dddd00;
+    text-decoration: none;
+}
+h
+{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 400%;
+    color: #dddd00;
+    background: #26559B;
+    padding: 10px 10px;
+    border: 2px hidden #26559B ;
+}
+p{
+      font-family: arial;
+    font-weight: bold;
+    font-size: 200%;
+    color: #dddd00;
+}
+.regest
+{
+ font-family: arial;
+    font-weight: bold;
+    font-size: 100%;
+    color: #dddd00;
+    text-decoration: none;
+    padding: 10px;
+}
+.http {
+    padding: 0 20px
+}
+footer {
+    background: #26559B;
+    padding: 20px 150px;
+    color: #FFF;
+    text-align: center;
+    overflow: auto;
+    font-size: 18px
+}
+footer span {
+  color: #dddd00;
+    float: right;
+}
+footer .soical {
+    float: left;
+}
+footer .soical a {
+    margin: 0 5px;
+    display: inline-block;
+}
+footer .soical svg {
+    width: 16px;
+    fill: #EEE;
+}
